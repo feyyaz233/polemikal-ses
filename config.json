@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [534847795274973185],
+        "ACTIVITY_TEXT": "🍁🇹🇷ƁƠȤ ƘƲƦƬԼƛƦ🇹🇷 🍁",
+        "GUILD_ID": "820263673879986226",
+        "VOICE_CHANNEL": "820264566008053784",
+        "MIN_STAFF_ROLE": "760296226242953226"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "ODIwNjgwNjQxNjEwOTA3NjQ5.YE4saA.YmLjZxDEdWMhCVVlZXWq_kDWPjE"
+}
